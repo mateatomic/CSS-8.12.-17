@@ -1,0 +1,17 @@
+a {
+	line-height: 0.5;
+	direction: ltr;
+	letter-spacing: -5px;
+}
+
+.b {
+	line-height: 1.5;
+	direction: rtl;
+	letter-spacing: 15px;
+}
+
+.c {
+	line-height: 15px;
+	direction: ltr;
+	letter-spacing: -1px;
+}

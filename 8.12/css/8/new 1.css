@@ -1,0 +1,17 @@
+body {
+	background-image: url("a.jpeg");
+    background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-position: top 40px right 50px;
+	
+}
+
+h1 {
+	background-color: #C00000;
+	/*background-image: url("https://images3.memedroid.com/images/UPLOADED354/570283c779c3c.jpeg");*/
+}
+
+p {
+	background-color: #E00000;
+	/*background-image: url("https://images3.memedroid.com/images/UPLOADED354/570283c779c3c.jpeg");*/
+}

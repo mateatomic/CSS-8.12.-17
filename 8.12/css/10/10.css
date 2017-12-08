@@ -1,0 +1,17 @@
+body {
+	background-image: url("a.jpeg");
+    background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-position: top 100px right 20px;
+	
+}
+
+h1 {
+	background-color: #C00000;
+	/*background-image: url("image.jpg");*/
+}
+
+p {
+	background-color: #E00000;
+	/*background-image: url("image.jpg");*/
+}
